@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    h1{
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 30px;
+        color: cadetblue;
+        letter-spacing: 2px;
+    }
+}
